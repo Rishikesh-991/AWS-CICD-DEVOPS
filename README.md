@@ -1,10 +1,10 @@
-# AWS DevOps Using CI/CD
+# AWS DevOps Using CI/CD project by Rishikesh Kourav
 ### Overview
 🚀🛠️ AWS DevOps practices involve the integration of development and operations teams to streamline the software delivery process. Continuous Integration and Continuous Deployment (CI/CD) pipelines automate the building, testing, and deployment of applications, ensuring rapid and reliable delivery of software updates.
 
 ![A-World](preview.png)
 
-Check out the live preview of hosted [Website](https://imharshag.github.io/AWS-DevOps-CICD/)
+Check out the live preview of hosted [Website](https://Rishikesh-991.github.io/AWS-DevOps-CICD/)
 
 ### Resources
 
@@ -37,9 +37,6 @@ Check out the live preview of hosted [Website](https://imharshag.github.io/AWS-D
 Project results and related [documents](https://drive.google.com/file/d/102PLlXxHCHmH9efx5xRe0ozivDdyOYxG/view?usp=drive_link)
 
 ### Contact
-
-For inquiries or feedback, please contact **[Harsha G](mailto:harshag3106@gmail.com)**.
-
 
 ### Contributing
 🔩📝 Contributions are encouraged! There are various ways you can contribute to this project:
